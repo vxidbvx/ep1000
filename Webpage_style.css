@@ -29,13 +29,13 @@ a {
     padding: 1;
 }
 #content {
-	padding: 10px;
+	
 }
 #nav {
 	width:190px;
 	float: left;
-	background-color: #C62F54;
-	color: gray;
+	background-color: #be234f;
+	color: #de7da9;
 	margin: 0 0 10 0px;
 }
 #nav ul{
@@ -45,7 +45,7 @@ a {
 }
 #nav .selected {
 	font-weight:bold;
-	color:White;
+	color:#ce3b7d;
 }
 #main{
 	width:600px;
