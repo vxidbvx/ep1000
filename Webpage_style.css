@@ -22,7 +22,7 @@ a {
 }
 #header {
 	height:100px;
-	background-color: #FF166C;
+	background-color: #bd0f5d;
 	color: GhostWhite;
 	text-align: center;
 }
@@ -30,16 +30,20 @@ a {
 	padding: 10px;
 }
 #nav {
-	width:180px;
+	width:190px;
 	float: left;
+	background-color: #b50b1f;
+	color: GhostWhite;
+	margin: 0 0 10 0px;
 }
 #nav ul{
 	list-style-type: none;
 	padding:0;
+
 }
 #nav .selected {
 	font-weight:bold;
-	color:purple;
+	color:White;
 }
 #main{
 	width:600px;
@@ -49,7 +53,7 @@ a {
 #footer{
 	clear:both;
 	padding:10px;
-	background-color:#FF166C;
+	background-color:#bd0f5d;
 	color:GhostWhite;
 	text-align:center;
 }
