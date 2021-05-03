@@ -1,5 +1,5 @@
 body {
-	background-color: #111133;
+	background-color: #f3f5f6;
 	font-family: 'Trebuchet MS', sans-serif;
 }
 
@@ -11,10 +11,10 @@ a {
 #container {
 	background-color: white;
 	color: #535353;
-	width: 1500px;
+	width: auto;
 	margin-left: auto;
 	margin-right: auto;
-	
+	 
 }
 
 #h1, h2, h3{
@@ -35,7 +35,7 @@ a {
 	width:190px;
 	float: left;
 	background-color: #be234f;
-	color: #de7da9;
+	color: #d0d5dc;
 	margin: 0 0 10 0px;
 }
 #nav ul{
@@ -45,7 +45,7 @@ a {
 }
 #nav .selected {
 	font-weight:bold;
-	color:#ce3b7d;
+	color:#f3f5f6;
 }
 #main{
 	width:600px;
