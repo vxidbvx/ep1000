@@ -32,8 +32,8 @@ a {
 #nav {
 	width:190px;
 	float: left;
-	background-color: #b50b1f;
-	color: GhostWhite;
+	background-color: #c9c9c9;
+	color: gray;
 	margin: 0 0 10 0px;
 }
 #nav ul{
