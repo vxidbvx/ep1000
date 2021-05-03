@@ -1,5 +1,5 @@
 body {
-	background-color: #CCCCCC;
+	background-color: #111133;
 	font-family: 'Trebuchet MS', sans-serif;
 }
 
@@ -21,10 +21,12 @@ a {
 	margin:0;
 }
 #header {
-	height:100px;
-	background-color: #bd0f5d;
-	color: GhostWhite;
-	text-align: center;
+	height: 80px;
+    background-color: #AA0E37;
+    color: GhostWhite;
+    text-align: center;
+    margin: auto;
+    padding: 1;
 }
 #content {
 	padding: 10px;
@@ -32,7 +34,7 @@ a {
 #nav {
 	width:190px;
 	float: left;
-	background-color: #c9c9c9;
+	background-color: #C62F54;
 	color: gray;
 	margin: 0 0 10 0px;
 }
