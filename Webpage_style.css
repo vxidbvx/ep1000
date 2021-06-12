@@ -8,6 +8,11 @@ a {
 	color;#dce2e5;
 }
 
+img {
+  width: 80%;
+  height: auto;
+}
+
 #container {
 	background-color: white;
 	color: #535353;
