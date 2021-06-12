@@ -58,9 +58,10 @@ img {
 	margin-left:10px;
 }
 #footer{
-	clear:both;
-	padding:10px;
-	background-color:#bd0f5d;
-	color:GhostWhite;
-	text-align:center;
+	height: 20px;
+    background-color: #AA0E37;
+    color: GhostWhite;
+    text-align: center;
+    margin: auto;
+    padding: 1;
 }
