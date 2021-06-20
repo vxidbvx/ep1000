@@ -56,12 +56,12 @@ img {
 #main{
 	width:900px;
 	float: left;
-	margin-left:0px;
+	margin-left:5px;
 }
 #footer{
 	position: fixed;
 	bottom: 0;
-	width: auto;
+	width: 98%;
 	height: 20px;
     background-color: #AA0E37;
     color: GhostWhite;
