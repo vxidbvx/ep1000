@@ -62,6 +62,7 @@ img {
 	position: fixed;
 	bottom: 0;
 	width: 95%;
+	clear: both;
 	height: 20px;
     background-color: #AA0E37;
     color: GhostWhite;
