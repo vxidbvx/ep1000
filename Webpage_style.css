@@ -59,7 +59,7 @@ img {
 	margin-left:0px;
 }
 #footer{
-	position: fixed;
+	position: center;
 	bottom: 0;
 	height: 20px;
     background-color: #AA0E37;
