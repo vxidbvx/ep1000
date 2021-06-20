@@ -61,11 +61,11 @@ img {
 #footer{
 	position: fixed;
 	bottom: 0;
-	width: 100%;
+	width: 80%;
 	height: 20px;
     background-color: #AA0E37;
     color: GhostWhite;
     text-align: center;
-    margin-right: 50px;
+    margin: auto;
     padding: 1;
 }
