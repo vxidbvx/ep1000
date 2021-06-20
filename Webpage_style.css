@@ -16,7 +16,7 @@ img {
 
 #container {
 	background-color: white;
-	color: #535353;
+	color: GhostWhite;
 	width: auto;
 	margin-left: 50px;
 	margin-right: 50px;
@@ -57,7 +57,6 @@ img {
 	width:900px;
 	float: left;
 	margin-left:0px;
-	background-color:#EECFB1
 }
 #footer{
 	height: 20px;
