@@ -61,6 +61,7 @@ img {
 #footer{
 	position: center;
 	bottom: 0;
+	width: auto;
 	height: 20px;
     background-color: #AA0E37;
     color: GhostWhite;
