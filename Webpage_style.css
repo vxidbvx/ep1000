@@ -60,6 +60,7 @@ img {
 }
 #footer{
 	position: fixed;
+	bottom: 0;
 	height: 20px;
     background-color: #AA0E37;
     color: GhostWhite;
