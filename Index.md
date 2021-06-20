@@ -1,8 +1,16 @@
 # Hello!
 
-Welcome to my little corner of cyberspace! I am Xavier.
+####  Welcome to my to my corner of cyberspace! Here I record and report on whatever I've done for EP1000.
 
-This webpage is used for documenting my time in EP1000 in SP.
+Please use the links in the navigation tab on the left to explore.
+
+##### Enjoy!
+
+
+
+
+
+
 
 
 
