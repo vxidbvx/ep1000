@@ -1,7 +1,5 @@
 ## 3D Printing
 
-
-
 For the assignment, I used Fusion 360 to model the knight chess piece from a 2D artwork.
 
 First, I used GIMP to crop the picture to make the image easier to work with in Fusion.
@@ -9,8 +7,6 @@ First, I used GIMP to crop the picture to make the image easier to work with in 
 #### In Fusion 360
 
 First I created a simple round base for the knight.
-
-
 
 Using the cropped image as a canvas, I was able to use Point Fit Splines to roughly recreate the shape of the knight.
 
@@ -25,4 +21,3 @@ After removing the canvas:
 Unfortunately, I forgot to record the printing process...
 
 But this is the final outcome after cleanup!
-
